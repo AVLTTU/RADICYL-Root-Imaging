@@ -1,0 +1,41 @@
+Power and Electrical Components
+6ft 18 Gauge 3-Prong Heavy Duty Replacement Power Supply Cord — Amazon
+Switch Mode Power Supply – S8VK-G01505 — OMRON
+Switch Mode Power Supply – S8VK-G01512 — OMRON
+Switch Mode Power Supply – S8VK-G12024 — OMRON
+
+Motion and Measurement
+FR-5120 Digital Penetrometer (x2)
+STR3 Miniature Stepper Drive – STR3/5000-231
+Encoder Extension Cable – WAA, YAA, ZAA — Applied Motion Products
+IP65 Rated Step Motor – HW23-753D-ZAC — Applied Motion Products
+
+NI Data Acquisition
+NI cDAQ-9171 — National Instruments (Emerson) – 781425-01
+NI-9401 (5 V/TTL, 8 Bidirectional Channels, 100 ns C Series Digital Module) — NI (Emerson)
+
+Lighting and Optics
+Medium Intensity Back-lit Backlights (Red) — Advanced Illumination – 3L0808-66024
+0.093X, 2/3" C-Mount TitanTL® Telecentric Lens — Edmund Optics – Stock #34-006
+
+Optics Mounting Hardware (Edmund Optics)
+2" Post Holder and Post Holder Assembly — Stock #59-007
+4" Length, ¼-20 Stud, Steel Post — Stock #59-000
+Post Collar — Stock #58-992
+¼-20 Mounting Adapter for Basler ace — Stock #88-517
+
+Camera and Mounting
+Basler ace Classic acA2000-50gm — Basler
+Optical Breadboard Plate, Solid Aluminum, 18 x 36 in., 1 in. 1/4-20 Grid — Newport – MODEL: SA2-18X36
+Mounting Bracket and Stand for Lens — Amazon
+
+Lab Supplies and Consumables
+Phytagel – 5 of 5 Kg — Caisson Labs – 400000355
+Hoagland’s No.2 Basal Salt Mixture — Caisson Labs – HOP01-1500LT
+Plant Containers (125 count) — VWR – 12106/2
+
+Labeling and Scanning (Brady)
+BradyPrinter i3300 with Brady Workstation Software — Brady – 150640
+B33 Series Polypropylene Labels – B33-5-425 — Brady
+B30 Series R4300 Halogen-Free Printer Ribbon (Black) – B30-R4300 — Brady
+CR1500 Handheld Wired Barcode Scanner with Stand — VWR – 176511
